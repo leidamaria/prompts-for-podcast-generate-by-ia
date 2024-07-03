@@ -7,8 +7,8 @@
 
 <div align="center">
     <audio controls>
-        <source src="output/podcast_final.MP3">
-        Seu navegador não suporta a tag de áudio.
+        <source src="output/podcast_final.MP3" type="audio/mpeg">
+        Este navegador não suporta a tag de áudio.
     </audio>
 </div>
 
