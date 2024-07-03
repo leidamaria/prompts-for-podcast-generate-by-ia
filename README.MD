@@ -1,18 +1,16 @@
 <p align="center">
 <img 
     src="./assets/Capa.jpg"
-    width="300"
+    width="400"
 />
 </p>
 
 <div align="center">
-    <audio src="output/Podcast_finalizado.MP4" controls title="Podcast versão final"></audio>
+    <audio src="output/Podcast_finalizado.mp4" controls title="Podcast versão final"></audio>
 </div>
 
 # Projeto Podcast Gerado por I.A.s
 
-
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante uma live no Youtube em parceria com a [DIO](https://dio.me)
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
 
