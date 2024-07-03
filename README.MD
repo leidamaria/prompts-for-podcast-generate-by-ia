@@ -4,14 +4,11 @@
     width="400"
 />
 </p> 
-Ouça o podcast
-   src="./output/Podecast_finalizado.mp4"
+
 <div align="center">
     <audio src="./output/Podcast_finalizado.mp4" type="audio/mp4" controls title="Podcast versão final">
         Seu navegador não suporta a tag de áudio.
     </audio>
-
-
 </div>
 
 ## Projeto Podcast Gerado por I.A.s
