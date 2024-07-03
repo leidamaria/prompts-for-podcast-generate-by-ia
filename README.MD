@@ -5,10 +5,6 @@
 />
 </p>
 
-<p align="center">
-    preview do podcast
-</p>
-
 <div align="center">
     <audio src="output/Podcast_finalizado.MP4" controls title="Podcast versão final"></audio>
 </div>
