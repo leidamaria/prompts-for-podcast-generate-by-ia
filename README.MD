@@ -6,17 +6,14 @@
 </p>
 
 <div align="center">
-    <audio src="output/Podcast_finalizado.mp4" controls title="Podcast versão final"></audio>
+    <audio src=".output/Podcast_finalizado.mp4" controls title="Podcast versão final"></audio>
 #    <a href="https://github.com/Reistaboada/prompts-for-podcast-generate-by-ia/tree/main/output"> Clique aqui para acessar o podcast</a> 
 
 </div>
 
-# Projeto Podcast Gerado por I.A.s
+## Projeto Podcast Gerado por I.A.s
 
-
-Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
-
-Foram  utilizados prompts para gerar a imagem de capa e o conteúdo do podcast 
+Este projeto abriu muitas possibilidades de exploração as tecnologias utilizadas, espeialmente o ChatGPT e o Capcut.
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -35,5 +32,4 @@ Foram  utilizados prompts para gerar a imagem de capa e o conteúdo do podcast
 
 ---
 
-⌨️ por [Leida Maria](https://github.com/leidamaria/)
-
+by <i>Leida Maria</i>
