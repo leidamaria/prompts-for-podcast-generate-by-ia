@@ -7,6 +7,8 @@
 
 <div align="center">
     <audio src="output/Podcast_finalizado.mp4" controls title="Podcast versão final"></audio>
+#    <a href="https://github.com/Reistaboada/prompts-for-podcast-generate-by-ia/tree/main/output"> Clique aqui para acessar o podcast</a> 
+
 </div>
 
 # Projeto Podcast Gerado por I.A.s
