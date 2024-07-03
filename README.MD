@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/Capa.png"
+    src="./assets/Capa.jpg"
     width="300"
 />
 </p>
@@ -10,7 +10,7 @@
 </p>
 
 <div align="center">
-    <audio src="output/Podcast_finalizado.MP3" controls title="Podcast versão final"></audio>
+    <audio src="output/Podcast_finalizado.MP4" controls title="Podcast versão final"></audio>
 </div>
 
 # Projeto Podcast Gerado por I.A.s
