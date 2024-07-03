@@ -3,7 +3,7 @@
     src="./assets/Capa.jpg"
     width="400"
 />
-</p>
+</p> 
 
 <div align="center">
     <audio src=".output/Podcast_finalizado.mp4" type="audio/mpeg" controls title="Podcast versão final"></audio>
