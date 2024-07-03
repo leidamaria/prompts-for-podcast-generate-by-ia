@@ -21,7 +21,7 @@ Foram  utilizados prompts para gerar a imagem de capa e o conteúdo do podcast
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) - utilizado para gerar o título e o roteiro do  podcast
-- [MidJourney](https://www.midjourney.com/showcase) - utilizado para gerar a capa
+- [Lexica.art](https://lexica.art/) - utilizado para gerar a capa
 - [TTSMAKER](https://ttsmaker.com/br) - utilizado para gerar o áudio original do podcast
 - [Capcut](https://www.capcut.com/pt-br/) - utilizado para tratar o áudio e adicioar os efeitos sonoros.
 
@@ -29,7 +29,7 @@ Foram  utilizados prompts para gerar a imagem de capa e o conteúdo do podcast
 
 1) Geração do Tìtulo pelo ChatGPT
 2) Geração do roteiro pelo ChatGPT
-3) Geração da capa pelo Midjourney
+3) Geração da capa pelo Lexica.art
 4) Edição do áudio com a adição dos efeitos sonoros pelo Capcut
 
 ## 📚 Materiais
@@ -41,42 +41,11 @@ Foram  utilizados prompts para gerar a imagem de capa e o conteúdo do podcast
 
 ## 🛠️ Instruções de execução
 
-Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
-
-- 🤖 1. Use os prompts de roteiro no `chagpt`
-- 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
-- 🤖 3. Use os prompts de artes no `midjourney`
-
-## 👨‍💻 Expert
-
-<p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
-    />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
-    &nbsp&nbsp&nbsp
-    <a 
-        href="https://github.com/felipeAguiarCode">
-        GitHub
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="www.linkedin.com/in/felipe-exe">
-        LinkedIn
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="https://www.instagram.com/felipeaguiar.exe/">
-        Instagram
-    </a>
-    &nbsp;|&nbsp;</p>
-</p>
-<br/><br/>
-<p>
+-  . Use os prompts de roteiro no `chagpt`
+-  . Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
+-  . Use os prompts de artes no `Lexica.art`
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+⌨️ por [Fabiana Taboada](https://github.com/Reistaboada)
+
