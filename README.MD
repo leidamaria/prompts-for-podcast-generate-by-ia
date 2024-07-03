@@ -6,7 +6,7 @@
 </p> 
 
 <div align="center">
-    <audio src="./output/Podcast_finalizado.mp4" type="audio/mp4" controls title="Podcast versão final">
+    <audio src="./output/podcast_final.MP3" type="audio/mp4" controls title="Podcast versão final">
         Seu navegador não suporta a tag de áudio.
     </audio>
 </div>
