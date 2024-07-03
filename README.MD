@@ -19,7 +19,7 @@ Foram  utilizados prompts para gerar a imagem de capa e o conteúdo do podcast
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
+- [MidJourney](https://www.midjourney.com/showcase)
 - [TTSMAKER](https://ttsmaker.com/br)
 - [Capcut](https://www.capcut.com/pt-br/)
 
