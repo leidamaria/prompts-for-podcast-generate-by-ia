@@ -10,7 +10,7 @@
         <source src="output/podcast.MP3" type="audio/mpeg">
          Este navegador não suporta a tag de áudio.
     </audio>
-    <p>Se seu navegador não suporta a tag de áudio, você pode <a href="output/" download>baixar o arquivo de áudio aqui</a>.</p>
+    <p>Se seu navegador não suporta a tag de áudio, você pode <a href="output/podcast.MP3" download>baixar o arquivo de áudio aqui</a>.</p>
 </div>
 
 ## Projeto Podcast Gerado por I.A.s
