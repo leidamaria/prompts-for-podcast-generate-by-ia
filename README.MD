@@ -4,9 +4,11 @@
     width="400"
 />
 </p> 
-
+Ouça o podcast
 <div align="center">
-    <audio src="output/Podcast_finalizado.mp4" type="audio/mpeg" controls title="Podcast versão final"></audio>
+    <audio src="output/Podcast_finalizado.mp4" type="audio/mpeg" controls title="Podcast versão final">
+        Seu navegador não suporta a tag de áudio.
+    </audio>
   ##  <a href="https://github.com/Reistaboada/prompts-for-podcast-generate-by-ia/tree/main/output"> Ouça o podcast</a> 
 
 </div>
