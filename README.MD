@@ -10,7 +10,7 @@ Ouça o podcast
     <audio src="./output/Podcast_finalizado.mp4" type="audio/mp4" controls title="Podcast versão final">
         Seu navegador não suporta a tag de áudio.
     </audio>
-  **  <a href="https://github.com/Reistaboada/prompts-for-podcast-generate-by-ia/tree/main/output"> Ouça o podcast</a> 
+
 
 </div>
 
