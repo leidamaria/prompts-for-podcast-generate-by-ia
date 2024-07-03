@@ -19,16 +19,16 @@ Foram  utilizados prompts para gerar a imagem de capa e o conteúdo do podcast
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) - utilizado para gerar o título e o roteiro do  podcast
-- [MidJourney](https://www.midjourney.com/showcase)
-- [TTSMAKER](https://ttsmaker.com/br)
-- [Capcut](https://www.capcut.com/pt-br/)
+- [MidJourney](https://www.midjourney.com/showcase) - utilizado para gerar a capa
+- [TTSMAKER](https://ttsmaker.com/br) - utilizado para gerar o áudio original do podcast
+- [Capcut](https://www.capcut.com/pt-br/) - utilizado para tratar o áudio e adicioar os efeitos sonoros.
 
-## ✨ Como foi feito ?
+## ✨ Etapas da elaboração do Podcast
 
-- Roteiro gerado via chatgpt
-- Audio gerado pelo TTSMAKER
-- Midjourney Para gerar capas
-- Capcut para tratar aúdio e adicionar sons de fundo
+1) Geração do Tìtulo pelo ChatGPT
+2) Geração do roteiro pelo ChatGPT
+3) Geração da capa pelo Midjourney
+4) Edição do áudio com a adição dos efeitos sonoros pelo Capcut
 
 ## 📚 Materiais
 
